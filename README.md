@@ -1,5 +1,5 @@
 # ansible-kubernetes
-Setting u kubernetes cluster with th help of ansible playbooks.
+Setting up kubernetes cluster with the help of ansible playbooks.
 
 How to use this (Setup Instructions):
 
